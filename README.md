@@ -56,4 +56,4 @@ We may update this Privacy Policy if the extension's behavior changes. Any updat
 
 If you have questions or concerns about this policy, please contact us:
 
-📧 **randyhui123@gmail.com**
+📧 **brianca2013@gmail.com**
