@@ -57,3 +57,23 @@ We may update this Privacy Policy if the extension's behavior changes. Any updat
 If you have questions or concerns about this policy, please contact us:
 
 📧 **brianca2013@gmail.com**
+
+---
+
+## 8. Open Source Libraries
+
+USATT Plus includes the following open-source libraries, which are bundled locally and used solely for in-browser functionality:
+
+- **Chart.js**  
+  License: MIT  
+  Website: [https://www.chartjs.org](https://www.chartjs.org)  
+  License File: [https://github.com/chartjs/Chart.js/blob/master/LICENSE.md](https://github.com/chartjs/Chart.js/blob/master/LICENSE.md)
+
+- **date-fns**  
+  License: MIT  
+  Website: [https://date-fns.org](https://date-fns.org)  
+  License File: [https://github.com/date-fns/date-fns/blob/main/LICENSE](https://github.com/date-fns/date-fns/blob/main/LICENSE)
+
+These libraries are used locally for graph rendering and date formatting. No data is sent to their maintainers or any third parties.
+
+---
